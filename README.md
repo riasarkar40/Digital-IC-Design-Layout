@@ -3,14 +3,14 @@ This repository is intended to capture step by step method to create schematic a
 Special thanks to : Prof. Janakiraman Viraraghavan, TAs : Balaji / 
 
 
-Module 0 : Familirization with Tool for Schematic and Layout
+**Module 0** : **Familirization with Tool for Schematic and Layout**
           Tools to be used : LTSpice XVII and Electric
           Links for installing the tools and integrating schematic and layout - http://cmosedu.com/cmos1/ltspice/ltspice_electric.htm
-
-0.1 Steps to create Schematic for inverter circuit -
-  1. Create new library -> Demo2
+	  
+   **0.1 Steps to create Schematic for inverter circuit** -
+   	
+    	1. Create new library -> Demo2
 	2. Create new cell (inverter) within the library.
-	
 	3. Go to Components -> Select VDD and GND and place it { these 2 symbols do not need to be named specifically}
 	4. Plan is to construct basic inverter circuit.
 	5. Components -> NMOS & PMOS

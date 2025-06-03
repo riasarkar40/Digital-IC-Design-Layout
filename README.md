@@ -4,8 +4,9 @@ Special thanks to : Prof. Janakiraman Viraraghavan, TAs : Balaji /
 
 
 **Module 0** : **Familirization with Tool for Schematic and Layout**
-          Tools to be used : LTSpice XVII and Electric
-          Links for installing the tools and integrating schematic and layout - http://cmosedu.com/cmos1/ltspice/ltspice_electric.htm
+          
+	  Tools to be used : LTSpice XVII and Electric
+   	  Links for installing the tools and integrating schematic and layout - http://cmosedu.com/cmos1/ltspice/ltspice_electric.htm
 	  
    **0.1 Steps to create Schematic for inverter circuit** -
    	

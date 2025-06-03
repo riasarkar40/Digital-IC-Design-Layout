@@ -11,6 +11,9 @@ Special thanks to : Prof. Janakiraman Viraraghavan, TAs : Balaji /
    **0.1 Steps to create Schematic for inverter circuit** -
    	
     1. Create new library -> Demo2
+
+    ![Image](https://github.com/user-attachments/assets/d48ad017-8559-407f-97a7-67d2198f421d)
+    
 	2. Create new cell (inverter) within the library.
 	3. Go to Components -> Select VDD and GND and place it { these 2 symbols do not need to be named specifically}
 	4. Plan is to construct basic inverter circuit.
